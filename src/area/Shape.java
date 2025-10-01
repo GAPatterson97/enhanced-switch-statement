@@ -1,3 +1,4 @@
 package area;
+import java.io.Serializable;
 
-public interface Shape {}
+public interface Shape extends Serializable {}
